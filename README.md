@@ -1,4 +1,4 @@
-# FreOP-Hardware
+# Frardware
 ![](https://rawcdn.githack.com/Open-OpenPilot-Hardware/Frardware/main/Doc/Logo.png)
 
 Opensource hardware designed for use with [comma.ai](https://comma.ai/)'s [openpilot](https://github.com/commaai/openpilot). Credits to Mr.One (maweiyuweiwei) for the design and hard work reverse engineering the hardware.
