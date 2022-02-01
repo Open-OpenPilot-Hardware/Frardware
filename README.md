@@ -1,5 +1,5 @@
 # FreOP-Hardware
-[![](https://i.imgur.com/U743k4o.png[/img])](#) 
+[![](https://rawcdn.githack.com/Open-OpenPilot-Hardware/Frardware/main/Doc/Logo.png[/img])](#) 
 
 Opensource hardware designed for use with [comma.ai](https://comma.ai/)'s [openpilot](https://github.com/commaai/openpilot). Credits to Mr.One (maweiyuweiwei) for the design and hard work reverse engineering the hardware.
 
@@ -11,7 +11,7 @@ The Fruno is the opensource clone of the uno board for the [comma two](https://c
 ## Frelay
 [![](https://rawcdn.githack.com/Open-OpenPilot-Hardware/Frardware/main/Doc/Frelay.png[/img])](#)
 
-The Frelay is the opensource clone of the [harness](https://comma.ai/shop/products/comma-car-harness) relay box for openpilot. Currently, the board files are unavailable. However, the case files are. It is backwards compatable with the official relay box from comma.
+The Frelay is the opensource clone of the harness [relay box](https://comma.ai/shop/products/harness-box) for openpilot. Currently, the board files are unavailable. However, the case files are. It is backwards compatable with the official relay box from comma.
 
 ### Buy
 
