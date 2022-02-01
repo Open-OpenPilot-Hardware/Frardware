@@ -13,7 +13,7 @@ The Fruno is the opensource clone of the uno board for the [comma two](https://c
 
 The Frelay is the opensource clone of the harness [relay box](https://comma.ai/shop/products/harness-box) for openpilot. Currently, the board files are unavailable. However, the case files are. It is backwards compatable with the official relay box from comma.
 
-### Buy
+### FrBuy
 
 #### Fruno
 
