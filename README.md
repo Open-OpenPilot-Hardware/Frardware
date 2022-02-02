@@ -22,3 +22,7 @@ The Frelay is the opensource clone of the harness [relay box](https://comma.ai/s
 #### Frelay
 
 - [Buy Frelay from AliExpress](https://www.aliexpress.com/item/1005003832897283.html)
+
+
+### [View Licence](https://github.com/Open-OpenPilot-Hardware/Frardware/blob/main/LICENSE)
+For legal/licence inquiry contact Coltonton#2169 on discord or by email rescuer-carders-0a@icloud.com
